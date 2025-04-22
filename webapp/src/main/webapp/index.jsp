@@ -1,1 +1,1 @@
-<h1> Hola CETI: prueba fichero simplificado ... </h1>
+<h1> Esto es una prueba para la práctica de jenkins de acasmar </h1>
